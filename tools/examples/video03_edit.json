@@ -1,0 +1,188 @@
+{
+ "workdir": "/home/claude/edit03",
+ "avatar": "/home/claude/edit03/src/avatar.mp4",
+ "output": "Video03_Sheets_FINAL.mp4",
+ "cta_at": 30.37,
+ "broll": [
+  {
+   "at": 4.0,
+   "file": "pexels/video03/clip01a_linen-closet_4440708.mp4",
+   "in": 0.6
+  },
+  {
+   "at": 6.2,
+   "file": "pexels/video03/clip02a_stack-of-bed-sheets_7131731.mp4",
+   "in": 3.0
+  },
+  {
+   "at": 8.3,
+   "file": "pexels/video03/clip03c_making-bed-white-sheets_6942745.mp4",
+   "in": 2.0
+  },
+  {
+   "at": 11.3,
+   "file": "pexels/video03/clip04a_laundry-basket_7280813.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 13.7,
+   "file": "pexels/video03/clip05a_folded-towels_7131824.mp4",
+   "in": 3.0
+  },
+  {
+   "at": 16.5,
+   "file": "pexels/video03/clip05c_folded-towels_6842016.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 18.6,
+   "file": "pexels/video03/clip07a_pillowcase_10473217.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 22.15,
+   "file": "pexels/video03/clip08a_dog-on-blanket_34668622.mp4",
+   "in": 1.0
+  },
+  {
+   "at": 24.6,
+   "file": "pexels/video03/clip12a_closing-closet-door_8455002.mp4",
+   "in": 0.5
+  },
+  {
+   "at": 26.9,
+   "file": "pexels/video03/clip10a_folding-sheets_7218430.mp4",
+   "in": 3.0
+  },
+  {
+   "at": 28.6,
+   "file": "pexels/video03/clip11a_organized-closet-shelves_9146503.mp4",
+   "in": 1.0
+  }
+ ],
+ "speech": [
+  [
+   0.34,
+   2.68,
+   "You do not need more than two sets of sheets."
+  ],
+  [
+   3.16,
+   3.75,
+   "Here's why."
+  ],
+  [
+   4.25,
+   8.06,
+   "Most linen closets are packed with sheets nobody has used in years."
+  ],
+  [
+   8.55,
+   8.96,
+   "One:"
+  ],
+  [
+   9.5,
+   11.1,
+   "two sets per bed is plenty."
+  ],
+  [
+   11.51,
+   12.28,
+   "One on the bed,"
+  ],
+  [
+   12.52,
+   13.43,
+   "and one in the wash."
+  ],
+  [
+   13.93,
+   14.3,
+   "Two:"
+  ],
+  [
+   14.66,
+   16.36,
+   "keep two towels per person,"
+  ],
+  [
+   16.64,
+   18.21,
+   "plus one set for guests."
+  ],
+  [
+   18.97,
+   19.38,
+   "Three:"
+  ],
+  [
+   19.77,
+   21.95,
+   "odd pillowcases and faded sheets?"
+  ],
+  [
+   22.35,
+   24.34,
+   "Animal shelters often welcome them."
+  ],
+  [
+   24.86,
+   25.36,
+   "Tonight,"
+  ],
+  [
+   25.67,
+   27.79,
+   "pull everything out of your linen closet,"
+  ],
+  [
+   28.09,
+   30.2,
+   "and put back only what fits that rule."
+  ],
+  [
+   30.54,
+   33.27,
+   "This is Day 4 of my 30-day declutter plan."
+  ],
+  [
+   33.83,
+   36.0,
+   "The free checklist is linked in my profile."
+  ]
+ ],
+ "titles": [
+  [
+   0.0,
+   4.0,
+   "YOU DON'T NEED MORE\\NTHAN 2 SETS OF SHEETS",
+   "Hook"
+  ],
+  [
+   8.3,
+   13.7,
+   "1  TWO SETS PER BED"
+  ],
+  [
+   13.7,
+   18.6,
+   "2  TWO TOWELS PER PERSON"
+  ],
+  [
+   18.6,
+   24.6,
+   "3  DONATE THE EXTRAS"
+  ],
+  [
+   24.6,
+   30.37,
+   "ONE CLOSET TONIGHT"
+  ],
+  [
+   30.37,
+   36.27,
+   "FREE CHECKLIST\\NLINK IN PROFILE"
+  ]
+ ]
+}
