@@ -209,13 +209,13 @@ Claude writes one Word doc per video with:
 ### Schedule rules (my preferences)
 
 - **Post to all three platforms** unless I say otherwise.
-- **One video per day, in the morning (about 8–10 a.m. Central).**
-- **Vary the time by 15–60 minutes from day to day** so it looks human, and put the platforms a few minutes apart (for example TikTok 9:12, Instagram 9:19, YouTube 9:27).
+- **Three videos a day, at about 9 a.m., 3 p.m. and 9 p.m. Central.**
+- **Put the platforms a few minutes apart** (for example TikTok 3:02, Instagram 3:08, YouTube 3:14) and vary the start minute slightly so it looks human.
 - **Order videos by workbook day** where possible, so the series feels like it moves forward.
 
 ### Buffer free-plan limits
 
-- **Only 10 scheduled posts at a time,** which is 3 videos × 3 platforms. Schedule 3 days ahead and top up as posts go out. Claude can set a reminder to do this.
+- **Only 10 scheduled posts per channel at a time.** At three videos a day, that's about three days ahead. Top up as posts go out, or upgrade to Essentials (about $6 per channel per month, unlimited scheduled posts and first comments).
 - **No first comment** (paid feature), so pinned comments are manual.
 - **Buffer can't set YouTube tags.** Use hashtags in the title and description instead.
 - **To cancel a scheduled post,** use `delete_post`. Always check whether I already posted something by hand first.
